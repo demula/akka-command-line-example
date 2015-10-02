@@ -10,6 +10,7 @@ out/
 
 # SBT #
 project/target/
+project/project/target/
 
 # Vagrant #
 .vagrant/
